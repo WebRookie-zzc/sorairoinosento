@@ -1,4 +1,8 @@
-# sorairoinosento
+# 因工作原因，已弃坑 2023.11.23
+
+
+
+## sorairoinosento
 
     空色イノセント 汉化 
 
